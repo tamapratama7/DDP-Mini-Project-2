@@ -1,4 +1,4 @@
-<img width="384" height="214" alt="Screenshot 2025-09-28 230953" src="https://github.com/user-attachments/assets/bab60c5c-79df-42ea-b5c9-5dcc870e199a" /># DDP-Mini-Project-2
+
 Mini Project dengan Tema Sistem Manajemen Event atau Acara
 
 Nama  : Noor Hamsyah Pratama
