@@ -26,11 +26,11 @@ Pengguna menginput informasi nama, tempat, tanggal, dan waktu event.
 Acara kemudian ditambahkan dan kembali ke menu.
 
 Jika memilih opsi 2 "Daftar Event"
-Jika sudah ada event, semua acara akan ditampilkan. lalu kembali ke menu.
+Jika sudah ada event, semua acara akan ditampilkan, lalu kembali ke menu.
 Jika belum terdapat event, pengguna akan kembali diarahkan ke menu.
 
 Jika memilih opsi 3 "Update Event"
-Hanya dapat dilaksanakan oleh posisi "Manager". Apabila karyawan, akses tidak diberikan. lalu kembali ke menu.
+Hanya dapat dilaksanakan oleh posisi "Manager". Apabila karyawan, akses tidak diberikan, lalu kembali ke menu.
 Jika jabatan sesuai dan event sudah terdaftar, masukkan nomor event yang ingin diperbarui, kemudian masukkan nama, lokasi, tanggal, dan waktu baru sebelum event berhasil diperbarui.
 Jika event belum tersedia, kembali ke menu utama.
 
@@ -188,5 +188,31 @@ def pilih_menu():
 
 
 pilih_menu()
+
+
+
+OUTPUT 
+
+<img width="797" height="1004" alt="Screenshot 2025-09-28 222634" src="https://github.com/user-attachments/assets/1092885a-163b-40f8-9a0b-c162995f6aea" />
+
+Lanjutan Foto Ouput di Atas
+
+<img width="694" height="399" alt="Screenshot 2025-09-28 222805" src="https://github.com/user-attachments/assets/18badc65-aaab-4e71-949e-3b347e09d6da" />
+
+TAMPILAN JIKA KARYAWAN INGIN MENGAKSES UPDATE DAN HAPUS EVENT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
